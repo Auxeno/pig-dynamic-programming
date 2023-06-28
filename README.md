@@ -7,13 +7,6 @@ Pig is a simple dice game with a surprising amount of depth in terms of strategy
 
 The centerpiece of this project is a generalized policy iteration (GPI) algorithm that computes the optimal strategy for playing Pig. This strategy is then visualized in a 3D surface plot, allowing for an intuitive understanding of the optimal policy across different game states.
 
-## Prerequisites
-You should have the following installed:
-
-- Python 3.7+
-- NumPy
-- Plotly
-
 ## Viewing the Project
 This project is a Jupyter notebook and is best viewed on nbviewer:
 

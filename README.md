@@ -10,6 +10,11 @@ The centerpiece of this project is a generalized policy iteration (GPI) algorith
 ## Prerequisites
 You should have the following installed:
 
-Python 3.7+
-NumPy
-Plotly
+- Python 3.7+
+- NumPy
+- Plotly
+
+## Viewing the Project
+This project is a Jupyter notebook and is best viewed on nbviewer:
+
+https://nbviewer.org/github/Auxeno/pig-dynamic-programming/blob/main/pig-dynamic-programming.ipynb
